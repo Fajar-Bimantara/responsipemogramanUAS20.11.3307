@@ -1,0 +1,7 @@
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\bin\Debug\responsiUAS.exe.config
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\bin\Debug\responsiUAS.exe
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\bin\Debug\responsiUAS.pdb
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\obj\Debug\responsiUAS.csproj.AssemblyReference.cache
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\obj\Debug\responsiUAS.csproj.CoreCompileInputs.cache
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\obj\Debug\responsiUAS.exe
+E:\Fajar\Kuliah\20.11.3307\responsiUAS\responsiUAS\obj\Debug\responsiUAS.pdb
